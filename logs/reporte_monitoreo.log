@@ -1,0 +1,5 @@
+remesa: R25981271593 | step: PAID_NOTIFIED | cause: 
+remesa: R25981271594 | step: FAILED | cause: Timeout servicio
+remesa: R25981271595 | step: PROCESSING | cause: 
+remesa: R25981271596 | step: READY_TO_PAY | cause: 
+remesa: R25981271597 | step: FAILED | cause: Fondos insuficientes

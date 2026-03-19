@@ -1,0 +1,5 @@
+{"orderId":{"S":"R25981271593"},"state":{"M":{"step":{"S":"PAID_NOTIFIED"},"cause":{"S":""}}}}
+{"orderId":{"S":"R25981271594"},"state":{"M":{"step":{"S":"FAILED"},"cause":{"S":"Timeout servicio"}}}}
+{"orderId":{"S":"R25981271595"},"state":{"M":{"step":{"S":"PROCESSING"},"cause":{"S":""}}}}
+{"orderId":{"S":"R25981271596"},"state":{"M":{"step":{"S":"READY_TO_PAY"},"cause":{"S":""}}}}
+{"orderId":{"S":"R25981271597"},"state":{"M":{"step":{"S":"FAILED"},"cause":{"S":"Fondos insuficientes"}}}}
